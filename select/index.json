@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Honesty",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-21T12:16:18.011239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honesty (Write Me A List)",
+      "artist": "Rodney Atkins",
+      "has_synced": true,
+      "path": "select/01_Honesty_(Write_Me_A_List)_Rodney_Atkins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/02_Honesty_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/03_Honesty_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/04_Honesty_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honesty (feat. Kendall Roy)",
+      "artist": "Nicholas Britell feat. Kendall Roy",
+      "has_synced": true,
+      "path": "select/05_Honesty_(feat._Kendall_Roy)_Nicholas_Britell_feat._Kendall_Roy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Nicholas Britell",
+      "has_synced": true,
+      "path": "select/06_Honesty_Nicholas_Britell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saint Honesty",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/07_Saint_Honesty_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honesty in Death",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/08_Honesty_in_Death_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In All Honesty",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/09_In_All_Honesty_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "King's X",
+      "has_synced": true,
+      "path": "select/10_Honesty_King's_X.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Kaskade",
+      "has_synced": true,
+      "path": "select/11_Honesty_Kaskade.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheap Honesty",
+      "artist": "Skunk Anansie",
+      "has_synced": true,
+      "path": "select/12_Cheap_Honesty_Skunk_Anansie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Honesty",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Your_Honesty_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honesty",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/14_Honesty_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "The Both",
+      "has_synced": false,
+      "path": "select/15_Honesty_Is_No_Excuse_The_Both.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Honesty Is No Excuse",
+      "artist": "The Both Aimee Mann",
+      "has_synced": false,
+      "path": "select/16_Honesty_Is_No_Excuse_The_Both_Aimee_Mann.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Honesty",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_Honesty_Billy_Joel.txt"
+    }
+  ]
+}
